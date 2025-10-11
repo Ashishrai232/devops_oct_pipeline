@@ -19,6 +19,8 @@ The solution automates the provisioning and deployment of a **highly available w
 # simplified architecture view
 ![alt text](image.png)
 
+# pipeline view 
+![alt text](image-2.png)
 ## inspired from:
 ![alt text](image-1.png)
 
