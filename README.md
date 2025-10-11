@@ -16,6 +16,12 @@ The solution automates the provisioning and deployment of a **highly available w
 
 ## 🏗️ Architecture Overview
 
+# simplified architecture view
+![alt text](image.png)
+
+## inspired from:
+![alt text](image-1.png)
+
 - **Application Gateway (AGW):** Provides SSL offloading and load balancing.
 - **Virtual Machine Scale Set (VMSS):** Hosts containerized web applications in a private subnet.
 - **Azure DNS Zone:** Manages DNS records for the deployed website.
@@ -154,8 +160,8 @@ Implement SSL certificates for secure traffic via Application Gateway.
 - Integrate monitoring via Azure Monitor.
 - Implement automatic scaling policies for VMSS.
 
-👥 Contributors
+👥 CREATOR
 
-Himanshu Verma — DevOps Engineer 
+ASHSIH RAI
 
 Contributions and suggestions are welcome via pull requests!
